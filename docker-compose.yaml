@@ -1,4 +1,4 @@
-version: "3.5"
+version: "3.8"
 
 services:
   postgres:
@@ -31,4 +31,5 @@ services:
 
 volumes:
   postgres-data:
+
   grafana-data:
